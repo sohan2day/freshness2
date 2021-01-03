@@ -1,0 +1,64 @@
+/* ===================================================
+                    For Tablate
+====================================================== */
+@media only screen and (min-width:200px) and (max-width:991px){
+    #header_area{position: relative;}
+    .main_menu{display: none;}
+    .main_banner h3{font-size: 25px;}
+    #banner_area {
+        padding: 20px 0px;
+    }
+    .logo_area{text-align: center;position: absolute;left: 260px;}
+    input{width: 70%;float: left;margin-right: 2%;}
+    #service_area .col-md-10 h3{margin-bottom: 45px;font-size: 18px;}
+    input[type='submit']{width: 25%;}
+    #service_area {padding: 25px 0;}
+    #intro {padding: 25px 0px 35px 0;}
+    .col-md-4 h4{font-size: 1.3em;}
+    #service_area .col-md-4 img {float: left;margin-right: 10px;margin-bottom: 65px;}
+    #copyright_area {padding: 15px 0;}
+    footer {padding: 20px 0;}
+    #copyright_area p{font-size: 10px;}
+}
+
+
+/* ===================================================
+                    For Mobile
+====================================================== */
+@media only screen and (min-width:200px) and (max-width:480px){
+    .social_area { text-align: center;}
+    footer input{width: 75%;}
+    footer input[type='submit']{width: 25%;}
+    .logo_area {left: 154px;overflow: hidden;}
+    #header_area {padding: 42px 0;}
+    .main_banner h3 {font-size: 15px;}
+    #intro {padding: 22px 0px 24px 0;}
+    #intro img {margin-top: 25px;}
+    #service_area .col-md-10 h3 {margin-bottom: 20px;}
+    #service_area .col-md-4 img {margin-bottom: 20px;}
+    #service_area .col-md-4 {margin-bottom: 10px;}
+    #service_area {padding: 15px 0;}
+    #header_area {padding: 20px 0 42px 0;}
+    #copyright_area {line-height: 0.5px;}
+    footer h3 {font-size: 20px;margin-bottom: 15px;margin-top: 15px;}
+    p {margin-bottom: 7px;padding: 0;font-size: 10px;line-height: 1.3em;}
+   .main_banner h3{margin-bottom: 5px;}
+   .main_banner a.readmore{font-size: 10px;padding: 5px;}}
+   /* ===================================================
+                    iphone Mobile
+====================================================== */
+
+@media only screen and (min-width:200px) and (max-width:380px){
+    .main_banner p{margin-bottom: 5px;}
+    .logo_area {left:103px;}
+
+
+}
+
+
+
+
+
+
+
+
